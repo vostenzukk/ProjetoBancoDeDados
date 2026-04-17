@@ -96,3 +96,4 @@ C:\Users\MarcosFelicianoBalma\Documents\Projetos\SegundoappBandodeDados\Segundoa
 C:\Users\MarcosFelicianoBalma\Documents\Projetos\SegundoappBandodeDados\SegundoappBandodeDados\obj\Debug\net10.0\SegundoappBandodeDados.pdb
 C:\Users\MarcosFelicianoBalma\Documents\Projetos\SegundoappBandodeDados\SegundoappBandodeDados\obj\Debug\net10.0\SegundoappBandodeDados.genruntimeconfig.cache
 C:\Users\MarcosFelicianoBalma\Documents\Projetos\SegundoappBandodeDados\SegundoappBandodeDados\obj\Debug\net10.0\ref\SegundoappBandodeDados.dll
+C:\Users\MarcosFelicianoBalma\Documents\Projetos\SegundoappBandodeDados\SegundoappBandodeDados\obj\Debug\net10.0\SegundoappBandodeDados.sourcelink.json

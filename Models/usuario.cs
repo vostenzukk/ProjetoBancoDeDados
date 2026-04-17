@@ -15,7 +15,7 @@ namespace SegundoappBandodeDados.Models
         [Required(ErrorMessage = "O campo Cargo é obrigatório")]
         public string Cargo { get; set; }
 
-        [Display(Name = "Nascimento")]
+        [Display(Name =  "Nascimento")]
         [Required(ErrorMessage = "O campo nascimento é obrigatório")]
         [DataType(DataType.DateTime)]
         public DateTime DataNasc { get; set; }

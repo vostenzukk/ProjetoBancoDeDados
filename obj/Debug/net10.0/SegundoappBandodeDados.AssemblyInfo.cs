@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SegundoappBandodeDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e739b4ededa66c60dfde2b04fe9e7bc9e469157")]
 [assembly: System.Reflection.AssemblyProductAttribute("SegundoappBandodeDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SegundoappBandodeDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
